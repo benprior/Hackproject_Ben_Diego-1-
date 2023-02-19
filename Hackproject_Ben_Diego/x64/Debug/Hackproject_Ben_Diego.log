@@ -1,0 +1,5 @@
+﻿  main.c
+  rating.c
+  Generating Code...
+C:\Users\bjspr\Desktop\CPTS 121\Hackproject_Ben_Diego(1)\rating.c(104): warning C4715: 'get_genra_type': not all control paths return a value
+  Hackproject_Ben_Diego.vcxproj -> C:\Users\bjspr\Desktop\CPTS 121\Hackproject_Ben_Diego(1)\x64\Debug\Hackproject_Ben_Diego.exe
